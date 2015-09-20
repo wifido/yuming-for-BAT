@@ -1,0 +1,115 @@
+home.xunlei.com               	111.161.24.146
+www.xunlei.com                	125.39.150.14, 119.188.94.139, 119.188.94.169
+my.xunlei.com                 	111.161.24.252
+i.xunlei.com                  	119.188.94.169, 119.188.94.139
+app.xunlei.com                	122.143.5.91, 122.143.5.92, 122.143.5.107, 60.217.235.199, 60.217.235.212, 60.217.235.216
+search.xunlei.com             	163.177.79.174
+web.xunlei.com                	163.177.79.173, 60.217.235.137
+mail.xunlei.com               	112.90.17.34
+news.xunlei.com               	163.177.79.167
+music.xunlei.com              	163.177.79.173, 60.217.235.137
+pay.xunlei.com                	119.188.94.170
+webmail.xunlei.com            	112.90.17.20
+u.xunlei.com                  	125.39.36.144, 125.39.36.145, 125.39.70.66
+help.xunlei.com               	125.39.150.34
+union.xunlei.com              	111.161.24.195
+bbs.xunlei.com                	42.51.169.155
+k.xunlei.com                  	125.39.150.14, 122.143.5.18
+shop.xunlei.com               	125.39.36.228
+tuan.xunlei.com               	61.147.76.90
+v.xunlei.com                  	163.177.79.173, 60.217.235.137
+video.xunlei.com              	111.161.24.193
+hd.xunlei.com                 	60.217.235.137, 163.177.79.173
+tv.xunlei.com                 	60.217.235.137, 163.177.79.173
+data.xunlei.com               	122.143.5.18
+ling.xunlei.com               	182.118.18.97, 60.217.235.134
+open.xunlei.com               	125.39.141.163
+vip.xunlei.com                	119.188.94.139, 119.188.94.169
+mail2.xunlei.com              	121.10.120.187
+auto.xunlei.com               	60.217.235.137, 163.177.79.173
+m.xunlei.com                  	60.217.235.199, 122.143.5.91, 122.143.5.92, 60.217.235.216, 122.143.5.107, 60.217.235.212
+inform.xunlei.com             	60.217.235.156
+hr.xunlei.com                 	42.51.169.93
+sf.xunlei.com                 	111.161.125.194
+wz.xunlei.com                 	119.188.108.58
+1.xunlei.com                  	122.143.5.18, 125.39.150.14
+c.xunlei.com                  	182.118.18.97, 60.217.235.134
+safe.xunlei.com               	112.90.17.49
+dcf.xunlei.com                	182.118.18.97, 60.217.235.134
+payment.xunlei.com            	125.39.36.245
+dl.xunlei.com                 	122.143.5.125
+red.xunlei.com                	112.87.43.245
+yuedu.xunlei.com              	111.161.125.141
+login.xunlei.com              	111.161.125.202
+t.xunlei.com                  	182.118.18.80, 182.118.18.81
+3g.xunlei.com                 	125.39.141.156
+mobile.xunlei.com             	60.217.235.216, 122.143.5.91, 122.143.5.92, 60.217.235.199, 60.217.235.212, 122.143.5.107
+cash.xunlei.com               	119.188.94.170
+ir.xunlei.com                 	184.50.87.42, 184.50.87.41
+10.xunlei.com                 	119.188.108.58
+2008.xunlei.com               	111.161.24.252
+yoyo.xunlei.com               	111.161.125.189
+nissan.xunlei.com             	111.161.24.252
+www1.xunlei.com               	119.188.94.169, 125.39.150.14, 119.188.94.139
+aq.xunlei.com                 	119.188.94.187, 119.188.108.58
+as.xunlei.com                 	119.188.108.58
+cm.xunlei.com                 	111.161.125.161
+dynamic.xunlei.com            	111.161.24.189
+kw.xunlei.com                 	122.143.5.18
+g.xunlei.com                  	42.51.169.10
+nd.xunlei.com                 	119.188.108.58
+sy.xunlei.com                 	119.188.108.58
+tj.xunlei.com                 	112.90.17.36
+mac.xunlei.com                	111.161.24.193
+website.xunlei.com            	60.217.235.134, 182.118.18.97
+pop3.xunlei.com               	112.90.17.34
+pop.xunlei.com                	60.217.235.134, 182.118.18.97
+m.xunlei.com                  	60.217.235.199, 60.217.235.212, 60.217.235.216, 122.143.5.91, 122.143.5.92, 122.143.5.107
+portal.i.xunlei.com           	112.80.23.77
+api.i.xunlei.com              	125.39.36.193
+proxy.pay.xunlei.com          	112.80.23.252, 125.39.36.200
+m.pay.xunlei.com              	119.188.94.170
+sms.pay.xunlei.com            	125.39.36.234
+admin.pay.xunlei.com          	125.39.36.236
+img.help.xunlei.com           	125.39.150.34
+m.help.xunlei.com             	119.188.94.169, 119.188.94.139
+img.union.xunlei.com          	182.118.18.201, 182.118.18.204, 119.188.94.188, 119.188.94.190
+app.union.xunlei.com          	111.161.24.195
+admin.shop.xunlei.com         	111.161.24.217
+img.shop.xunlei.com           	182.118.18.201, 182.118.18.204, 119.188.94.188, 119.188.94.190
+so.v.xunlei.com               	112.87.43.14
+ftp.ling.xunlei.com           	42.51.169.253
+bbs.ling.xunlei.com           	112.90.17.60
+img.ling.xunlei.com           	60.217.235.144, 182.118.18.96
+1.vip.xunlei.com              	125.39.150.14, 122.143.5.18
+img.vip.xunlei.com            	119.188.94.139, 119.188.94.169
+cache.vip.xunlei.com          	111.161.125.223
+stat.vip.xunlei.com           	111.161.125.196
+so.vip.xunlei.com             	111.161.24.149
+help.vip.xunlei.com           	60.217.235.156
+db.auto.xunlei.com            	61.135.131.85, 61.135.131.79
+upgrade.m.xunlei.com          	42.51.169.12
+demo.m.xunlei.com             	163.177.79.172
+weixin.hr.xunlei.com          	42.51.169.97
+img.c.xunlei.com              	60.217.235.144, 182.118.18.96
+weixin.red.xunlei.com         	112.87.43.110, 112.87.43.109
+test.yuedu.xunlei.com         	111.161.125.141
+api.yuedu.xunlei.com          	111.161.125.141
+app.yuedu.xunlei.com          	125.39.150.14
+wx.yuedu.xunlei.com           	111.161.125.141
+data.yuedu.xunlei.com         	111.161.24.154
+stat.login.xunlei.com         	42.51.169.29
+js.t.xunlei.com               	119.188.94.189, 124.95.172.252, 182.118.18.202
+api.t.xunlei.com              	182.118.18.81, 182.118.18.80
+img.mobile.xunlei.com         	122.143.5.61, 60.217.235.152
+help.mobile.xunlei.com        	119.188.94.190, 182.118.18.201, 182.118.18.204, 119.188.94.188
+img.10.xunlei.com             	60.217.235.144, 182.118.18.96
+img.as.xunlei.com             	182.118.18.96, 60.217.235.144
+img.nd.xunlei.com             	182.118.18.96, 60.217.235.144
+down.mac.xunlei.com           	182.118.18.71
+bbs.pop.xunlei.com            	112.90.17.69
+upgrade.m.xunlei.com          	42.51.169.12
+demo.m.xunlei.com             	163.177.79.172
+vip.portal.i.xunlei.com       	112.80.23.77
+m.admin.pay.xunlei.com        	125.39.36.236
+test.app.yuedu.xunlei.com     	111.161.125.141
